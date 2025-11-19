@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NutriAI - Social Weight Loss Coach",
+  "description": "A community-driven weight loss application powered by Gemini AI. Features personalized diet plans, social support feeds, and AI-powered food logging.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
