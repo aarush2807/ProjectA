@@ -1,4 +1,3 @@
-Here’s a cleaner, more professional, more compelling version of your README — tighter wording, clearer structure, stronger developer-focused language, and more polished formatting.
 
 ---
 
@@ -158,9 +157,3 @@ To propose changes:
 GitHub | Email
 
 ---
-
-If you want, I can also:
-✅ Add a visual diagram (architecture / AI pipeline)
-✅ Create badges (build passing, license, etc.)
-✅ Add screenshots / demo GIF
-Just let me know!
